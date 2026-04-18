@@ -40,7 +40,7 @@
 .about__info-label {
   font-family: var(--font-mono);
   font-size: 0.68rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   letter-spacing: 0.08em;
   text-transform: uppercase;
 }
@@ -110,7 +110,7 @@
 
 .timeline__desc {
   font-size: 0.82rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   line-height: 1.6;
 }
 
@@ -170,7 +170,7 @@
 
 .cert-card__desc {
   font-size: 0.8rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   line-height: 1.5;
 }
 

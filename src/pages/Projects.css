@@ -87,7 +87,7 @@
 }
 
 .project-card__link {
-  color: var(--text-muted);
+  color: var(--text-secondary);
   font-size: 0.9rem;
   transition: color var(--transition);
   display: flex;
@@ -125,7 +125,7 @@
 
 .project-card__highlights li {
   font-size: 0.8rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   padding-left: 1rem;
   position: relative;
   line-height: 1.5;
@@ -149,7 +149,7 @@
 .project-tag {
   font-family: var(--font-mono);
   font-size: 0.65rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
   background: rgba(255, 255, 255, 0.04);
   border: 1px solid var(--border);
   border-radius: var(--radius);

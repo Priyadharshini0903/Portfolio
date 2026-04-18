@@ -83,7 +83,7 @@
 .skill-bar__pct {
   font-family: var(--font-mono);
   font-size: 0.7rem;
-  color: var(--text-muted);
+  color: var(--text-secondary);
 }
 
 .skill-bar__track {
